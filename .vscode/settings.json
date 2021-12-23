@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "terminal.integrated.fontSize": 16,
+    "editor.fontSize": 16,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+}
